@@ -2,7 +2,8 @@
 
 ## Application demo
 
-Please click [here](https://6254424ff3a3f3005d08f7d8--flourishing-pie-f01916.netlify.app/) to check the application demo.
+Please click [here](https://flourishing-pie-f01916.netlify.app/) to check the application demo.
+The application is designed in responsive sizes, but if you are checking mobile viwe, please choose <ins>iPhone SE</ins> to get the best visual experience;
 
 ## Introduction
 
@@ -33,6 +34,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Troubleshooting
 
-1. Allow browser to use your location for the "find the cloest restaurant GeoLocation" feature;
-2. If you can not see the order status after checkout button, please make sure that your browser's setting of Insecure content is enabled.
-   Please click [here](https://stackoverflow.com/questions/37387711/page-loaded-over-https-but-requested-an-insecure-xmlhttprequest-endpoint) to check the detail.
+1. "Find the cloest restaurant" button is not working:  
+   Please allow browser to use your location for this feature;
+
+2. Can not see the order status after checkout  
+   Please make sure that your browser's setting of Insecure content is enabled.
+   Click [here](https://stackoverflow.com/questions/37387711/page-loaded-over-https-but-requested-an-insecure-xmlhttprequest-endpoint) to check the detail.
