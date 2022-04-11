@@ -3,7 +3,10 @@
 ## Application demo
 
 Please click [here](https://flourishing-pie-f01916.netlify.app/) to check the application demo.
+<<<<<<< HEAD
 The application is designed in responsive sizes, but if you are checking mobile viwe, please choose <ins>iPhone SE</ins> to get the best visual experience;
+=======
+>>>>>>> d21f17069b65136f6974397c2751ea36bb7ebb15
 
 ## Introduction
 
