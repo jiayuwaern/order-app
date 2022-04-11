@@ -2,7 +2,7 @@
 
 ## Application demo
 
-Please click [here](https://6254424ff3a3f3005d08f7d8--flourishing-pie-f01916.netlify.app/) to check the application demo.
+Please click [here](https://flourishing-pie-f01916.netlify.app/) to check the application demo.
 
 ## Introduction
 
