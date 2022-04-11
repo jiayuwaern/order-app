@@ -88,3 +88,35 @@
         }
     }
   }
+
+  @media (min-width: 400px) {
+    .menu-wrapper {
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-bottom: 10%;
+        .menu-card {
+            width: 30%;
+            flex: 0 0 30%;
+            margin: 10px;
+        }
+    }
+
+    .cart-wrapper {
+        .cart-items {
+            width: 50%;
+            p {
+                font-size: 12px;
+            }
+        }
+        button {
+            width: 30%;
+        }
+    }
+
+    .order-wrapper {
+        margin-top: -10%;
+        .order-content {
+            width: 30%;
+        }
+    }
+  }
