@@ -48,7 +48,7 @@ const Menu: FC<ChildProps> = ({ menuList }) => {
     const checkout = async () => {
         setMenuObj([]);
         const result = await axios(
-          `http://private-anon-3f35ae8fa6-pizzaapp.apiary-mock.com/orders/1234412`,
+          `https://private-anon-3f35ae8fa6-pizzaapp.apiary-mock.com/orders/1234412`,
         );
         const order = result.data;
         setOrder(order);

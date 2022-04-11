@@ -1,6 +1,6 @@
 # Check app demo
 
-Please click the link to check the demo [order-app](https://github.com/facebook/create-react-app).
+Please click the link to check the demo [order-app](https://6254424ff3a3f3005d08f7d8--flourishing-pie-f01916.netlify.app/).
 
 ## Start the project
 
