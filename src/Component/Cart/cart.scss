@@ -1,0 +1,32 @@
+.cart-wrapper {
+    background-color: #ffc988;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    z-index: 99;
+    width: 100%;
+    h1 {
+        font-size: 15px;
+    }
+    .cart-items {
+        height: 100%;
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        p {
+            font-size: 10px;
+        }
+    }
+    button {
+        margin-bottom: 10px;
+        width: 50%;
+        background-color: #63cec1;
+        border-radius: 10px;
+        border: 2px solid black;
+    }
+}
